@@ -1,3 +1,6 @@
 marimo
 pandas
 pyreadstat
+Jinja2
+altair
+matplotlib
